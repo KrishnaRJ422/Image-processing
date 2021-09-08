@@ -1,0 +1,27 @@
+ 
+
+ 
+
+NumMonths
+Credithistory_...
+
+Savings_500
+
+CreditAmount
+
+Credithistory_...
+
+ 
+
+79 RMSE: 0.0483
+
+ 
+
+ 
+
+UW
+
+ 
+
+ 
+
